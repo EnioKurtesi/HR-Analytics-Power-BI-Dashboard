@@ -7,7 +7,6 @@ This project delves into an analysis of an HR dataset using Power BI to create a
 Key Questions Explored:
 
     Total Employee Count: Determining the number of employees present in the dataset.
-    Attrition Rate: Calculating the percentage of attrition within the employee base.
     Employee Retention: Analyzing the count of employees who remained in the company (Total employees - Attrition).
     Attrition Rate Calculation: Expressing attrition as a percentage of the total employee count.
     Average Employee Age: Calculating the mean age of the employees in the dataset.
