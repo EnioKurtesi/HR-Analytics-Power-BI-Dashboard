@@ -1,5 +1,6 @@
 # HR-Analytics-Power-BI-Dashboard 
-![hrpowerbi2](https://github.com/EnioKurtesi/HR-Analytics-Power-BI-Dashboard/assets/73586532/7f7c0755-0845-44a3-9809-09da0dc33bee)
+![hrpowerbi3](https://github.com/EnioKurtesi/HR-Analytics-Power-BI-Dashboard/assets/73586532/dda45753-0598-4e45-94ea-b467b502043e)
+
 
 Overview:
 
