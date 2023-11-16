@@ -4,8 +4,8 @@
 
 Overview:
 
-This project delves into an analysis of an HR dataset using Power BI to create an insightful dashboard. The primary focus is to answer several key questions related to the dataset.
-Key Questions Explored:
+This project delves into an analysis of an HR dataset using Power BI to create an insightful dashboard. The primary focus is to practice Power BI and answer several key questions related to the dataset.
+Key questions explored:
 
     Total Employee Count: Determining the number of employees present in the dataset.
     Employee Retention: Analyzing the count of employees who remained in the company (Total employees - Attrition).
